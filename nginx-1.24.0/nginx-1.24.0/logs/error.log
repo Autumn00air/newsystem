@@ -1,0 +1,5 @@
+2023/12/20 00:21:33 [notice] 23108#21272: signal process started
+2023/12/20 10:14:43 [notice] 28176#28140: signal process started
+2023/12/20 10:43:09 [error] 21328#27516: *7 CreateFile() "D:\Users\wengy\Desktop\newsSysterm\nginx-1.24.0\nginx-1.24.0/build/login" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /login HTTP/1.1", host: "localhost"
+2023/12/20 10:50:08 [notice] 21580#27804: signal process started
+2023/12/20 13:46:43 [notice] 24908#25416: signal process started
